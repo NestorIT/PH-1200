@@ -12,7 +12,7 @@ This board is connected to a UPS to operate with RTC alarms (its purpose is to e
 - HMI communication via USB port.
 
 ## IMPORTANT
-**This project was developed for a _specific device_, however, it may be modified according to others UPS**
+**This project was developed for a _specific device_, however, it may be modified according to other project**
 
 ## Credits
 DS3231 Arduino library - [jarzebski/Arduino-DS3231](https://github.com/jarzebski/Arduino-DS3231)\
