@@ -16,7 +16,7 @@ This board is connected to a UPS to operate with RTC alarms (its purpose is to e
 
 ## Credits
 DS3231 Arduino library - [jarzebski/Arduino-DS3231](https://github.com/jarzebski/Arduino-DS3231)\
-Isolated communication circuit - [pepaslabs/6N137-TTL-Serial-Optoisolator](https://github.com/pepaslabs/6N137-TTL-Serial-Optoisolator)
+Isolated communication circuit - [pepaslabs/6N137-TTL-Serial-Optoisolator](https://github.com/pepaslabs/6N137-TTL-Serial-Optoisolator)\
 Teardrops KiCad script - [NilujePerchut/kicad_scripts](https://github.com/NilujePerchut/kicad_scripts)
 
 ## License
