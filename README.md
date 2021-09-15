@@ -1,6 +1,6 @@
-# Adding schedule function to an Uninterruptible Power Supply (UPS)
+# ON/OFF Automation System for a Uninterruptible Power Supply (UPS): Adding schedule function
 
-This board is connected to a UPS to operate with RTC alarms (its purpose is to extend battery life). In addition, the schedule and shutdown times may also be configured in a HMI via a USB port.
+This Arduino project was connected to a UPS to power on/off with RTC alarms (its purpose is to extend battery life). In addition, the schedule and shutdown times may also be configured by a HMI via USB port.
 
 ## Features
 - Isolated voltage sensor.
