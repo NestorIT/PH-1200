@@ -1,6 +1,6 @@
 # Adding schedule function to an Uninterruptible Power Supply (UPS)
 
-This PCB is connected to a UPS to operate with RTC alarms (its purpose is to extend battery life). In addition, the schedule and shutdown times may also be configured in a HMI via a USB port.
+This board is connected to a UPS to operate with RTC alarms (its purpose is to extend battery life). In addition, the schedule and shutdown times may also be configured in a HMI via a USB port.
 
 ## Features
 - Isolated voltage sensor.
